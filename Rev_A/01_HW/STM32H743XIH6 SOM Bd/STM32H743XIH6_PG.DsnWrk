@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=STM32H743XIH6 SOM Bd.PrjPcb
+[Project2]
+ProjectPath=..\..\..\..\..\..\..\03_Altium\Library\Arkx\Arkx.LibPkg

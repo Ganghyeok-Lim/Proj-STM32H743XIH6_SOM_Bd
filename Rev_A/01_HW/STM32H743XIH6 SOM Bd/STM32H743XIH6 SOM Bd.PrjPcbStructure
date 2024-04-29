@@ -1,5 +1,7 @@
 Record=TopLevelDocument|FileName=01_Index.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=02_Overview.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=03_Power.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=04_MCU.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=05_Connector.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=04_MCU-Part1.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=05_MCU-Part2.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=06_MCU_Part3.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=07_Connector.SchDoc|SheetNumber=7
